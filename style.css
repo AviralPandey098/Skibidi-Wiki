@@ -1,0 +1,38 @@
+body{
+    background-color:#ff595e;
+}
+
+h1{
+    color: #ffca3a;
+    text-align: center;
+}
+header{
+    color: #8ac926;
+    text-align: center;
+}
+
+section{
+    color: lightseagreen;
+    background-color: darkred;
+    width: 97%;
+    float: left;
+    border: 1px solid black;
+    margin-left: 5px;
+    padding: 10px;
+}
+aside{
+    width: 50%;
+    float: right;
+    margin-left: 5px;
+    padding: 10px;
+}
+
+#footer{
+    background-color: black;
+}
+
+#footerpara{
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    color: #8ac926;
+}
